@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Development, Python and DevOPS methodology**
 
-- 💬 Ask me about **Gaming and Hardware Content**
+- 💬 Ask me about **Gaming and Hardware Content, Windows Optimization, Graphic Design... **
 
 - 📫 How to reach me **pedropasb2@gmail.com**
 
