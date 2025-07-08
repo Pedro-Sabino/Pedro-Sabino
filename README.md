@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Cloud Development, Python and DevOPS methodology**
 
-- 💬 Ask me about **Gaming and Hardware Content, Windows Optimization, Graphic Design... **
+- 💼 Working and improving day after day at **Icon IT Solutions** as a **Junior IT Assistant**, helping them with a vast variety of tasks and services.
+
+- 💬 Ask me about **Gaming and Hardware Content, Windows Optimization, Graphic Design...**
 
 - 📫 How to reach me **pedropasb2@gmail.com**
 
